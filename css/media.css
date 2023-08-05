@@ -1,0 +1,468 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /* header start */
+    .h_nav {
+        padding: 15px 0;
+
+    }
+    .off_nav{
+        background-color: rebeccapurple;
+      }
+      .btn_box{
+        justify-content: space-around;
+      }
+      .btn-close {
+        --bs-btn-close-opacity: 2.5;
+    }
+ 
+    /* header end */
+    /* banner start */
+    .b_text {
+      padding: 17px 0px 40px 0;
+    }
+    .b_text{
+      text-align: center;
+    }
+    .b_h1 {
+      font-size: 27px;
+      line-height: 35px;
+  }
+     .b_img {
+      padding: 0px;
+     }
+    .b_img img{
+      display: none;
+    }
+    .b_p {
+      font-size: 14px;
+      padding: 15px 0px 15px;
+      line-height: 21px;
+    }
+   .p_span {
+    line-height: 28px;
+  }
+    /* banner end*/
+/* Logo Designs start */
+.Logo_Designs {
+  padding: 30px 0;
+}
+.c_h1 {
+  padding-bottom: 15px;
+  font-size: 20px;
+  }
+  .c_img {
+    padding: 15px;
+  }
+.d_n{
+  display: none;
+}
+/* Logo Designs end */
+/* Social Media Designs start */
+.image_box img{
+  padding: 0px 20px;
+}
+/* Social Media Designs end */
+/* footer & me section start */
+.contact_me {
+  margin-top: 50px;
+}
+.contact_h1 {
+  text-align: center;
+  padding: 0px 0px 10px 0px;
+  font-size: 28px;
+}
+.contact_p {
+  text-align: center;
+  padding: 0px 0px 0px 0px;
+  font-size: 15px;
+}
+.contact_text {
+  margin-top: 0px;
+}
+.contact_img img{
+  display: none;
+}
+.contact_text {
+  padding: 30px;
+}
+/* footer start */
+.f_img {
+  width: 32px;
+  padding: 0px 3px;
+}
+.f_h2 {
+  padding-top: 20px;
+  font-size: 16px;
+}
+.footer_me {
+  height: 500px;
+}
+.footer {
+  padding: 15px;
+  margin-top: 50px;
+}
+/* footer end */
+/* footer & me section end */
+  
+}
+ 
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /* header start */
+     .h_nav {
+        padding: 15px 0;
+
+    }
+     .off_nav{
+        background-color: rebeccapurple;
+      }
+      .btn_box{
+        justify-content: space-around;
+      }
+      .btn-close {
+        --bs-btn-close-opacity: 2.5;
+    }
+
+    /* header end */
+    /* banner start */
+    .b_text {
+      padding: 40px 0;
+  }
+    .b_text{
+      text-align: center;
+    }
+    .b_h1 {
+      font-size: 40px;
+      line-height: 50px;
+     }
+     .b_img {
+      padding: 0px;
+     }
+    .b_img img{
+      display: none;
+    }
+    .b_p {
+      padding: 15px 0px 15px;
+      line-height: 23px;
+  }
+   .p_span {
+    line-height: 35px;
+  }
+    /* banner end */
+/* Logo Designs start */
+.c_h1 {
+  padding-bottom: 30px;
+  font-size: 30px;
+  }
+  .c_img {
+    padding: 30px;
+  }
+.d_n{
+  display: none;
+}
+/* Logo Designs end */
+/* Social Media Designs start */
+.image_box img{
+  padding: 0px 100px;
+}
+/* Social Media Designs end */
+/* footer & me section start */
+.contact_me {
+  margin-top: 65px;
+}
+.contact_h1 {
+  text-align: center;
+  padding: 0px 50px 10px 50px;
+  font-size: 35px;
+}
+.contact_p {
+  text-align: center;
+  padding: 0px 0px 0px 0px;
+  font-size: 15px;
+}
+.contact_text {
+  margin-top: 0px;
+}
+.contact_img img{
+  display: none;
+}
+.contact_text {
+  padding: 30px;
+}
+/* footer start */
+.f_img {
+  width: 32px;
+  padding: 0px 3px;
+}
+.f_h2 {
+  padding-top: 20px;
+  font-size: 16px;
+}
+.footer_me {
+  height: 500px;
+}
+.footer {
+  padding: 15px;
+  margin-top: 50px;
+}
+/* footer end */
+/* footer & me section end */
+  
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header start */
+    .h_nav {
+        padding: 15px 0;
+
+    }
+    .off_nav{
+        background-color: rebeccapurple;
+      }
+      .btn_box{
+        justify-content: space-around;
+      }
+      .btn-close {
+        --bs-btn-close-opacity: 2.5;
+    }
+    
+    /* header end */
+    /* banner start */
+    .b_text {
+      padding: 40px 0;
+  }
+    .b_text{
+      text-align: center;
+    }
+    .b_h1 {
+      font-size: 49px;
+      line-height: 58px;
+    }  
+    .b_img img{
+      display: none;
+    }
+    .b_img {
+      padding: 0px;
+    }
+    .b_p {
+      padding: 15px 100px 20px;
+      line-height: 25px;
+    }
+    /* banner end */
+/* Logo Designs start */
+  .c_h1 {
+  padding-bottom: 30px;
+  font-size: 30px;
+  }
+  .c_img {
+    padding: 30px;
+  }
+/* Logo Designs end */
+/* Social Media Designs start */
+/* Social Media Designs end */
+/* footer & me section start */
+.contact_me {
+  margin-top: 65px;
+}
+.contact_h1 {
+  text-align: center;
+  padding: 0px 120px 10px 120px;
+  font-size: 40px;
+}
+.contact_p {
+  text-align: center;
+  padding: 0px 35px 0px 35px;
+  font-size: 16px;
+}
+.contact_text {
+  margin-top: 0px;
+}
+.contact_img img{
+  display: none;
+}
+/* footer start */
+.f_img {
+  width: 45px;
+  padding: 0px 6px;
+}
+.f_h2 {
+  padding-top: 50px;
+  font-size: 20px;
+}
+.footer_me {
+  height: 530px;
+}
+.footer {
+  padding: 15px;
+  margin-top: 50px;
+}
+/* footer end */
+/* footer & me section end */
+ 
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* header start */
+    .off_nav ul li a {
+        font-size: 17px;
+        padding-right: 2rem !important;
+        padding-left: 1rem !important;
+    }
+    
+    /* header end */
+    /* banner start */
+    .b_text {
+      padding: 35px 0;
+     }
+    .b_h1 {
+      font-size: 36px;
+      line-height: 40px;
+     }
+    .b_p {
+      padding: 15px 60px 15px 0;
+      font-size: 16px;
+      line-height: 20px;
+     }
+    .p_span {
+    line-height: 38px;
+    }
+    .b_img {
+      padding: 25px;
+    }
+    /* banner end */
+/* Logo Designs start */
+   .c_h1 {
+  padding-bottom: 35px;
+  font-size: 35px;
+  }
+  .c_img {
+    padding: 40px;
+  }
+/* Logo Designs end */
+/* Social Media Designs start */
+/* Social Media Designs end */
+/* footer & me section start */
+.contact_me {
+  margin-top: 55px;
+}
+.contact_h1 {
+  padding: 0px 120px 10px 80px;
+  font-size: 40px;
+}
+.contact_p {
+  padding: 0px 0px 0px 80px;
+  font-size: 16px;
+}
+.contact_text {
+  margin-top: 20px;
+}
+/* footer start */
+.f_img {
+  width: 55px;
+  padding: 0px 9px;
+}
+.f_h2 {
+  padding-top: 50px;
+  font-size: 23px;
+}
+.footer_me {
+  height: 580px;
+}
+.footer {
+  padding: 15px;
+  margin-top: 50px;
+}
+/* footer end */
+/* footer & me section end */
+     
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+     /* header start */
+     .off_nav ul li a {
+        font-size: 17px;
+        padding-right: 2rem !important;
+        padding-left: 1rem !important;
+    } 
+    /* header end */
+    /* banner start */
+    .b_text {
+      padding: 65px 0;
+  }
+    .b_h1 {
+      font-size: 43px;
+      line-height: 50px;
+    }
+    .b_p {
+      padding: 18px 85px 0px 0;
+      font-size: 16px;
+      line-height: 22px;
+  }
+  .p_span {
+    line-height: 38px;
+} 
+    /* banner end */
+/* Logo Designs start */
+/* Logo Designs end */
+/* Social Media Designs start */
+/* Social Media Designs end */
+/* footer & me section start */
+.contact_me {
+  margin-top: 60px;
+}
+.contact_h1 {
+  padding: 0px 198px 10px 80px;
+  font-size: 45px;
+}
+.contact_p {
+  padding: 0px 0px 20px 80px;
+  font-size: 17px;
+}
+.contact_text {
+  margin-top: 45px;
+}
+/* footer start */
+.f_img {
+  width: 45px;
+  padding: 0px 6px;
+}
+.f_h2 {
+  padding-top: 50px;
+  font-size: 20px;
+}
+.footer_me {
+  height: 630px;
+}
+.footer {
+  padding: 15px;
+  margin-top: 50px;
+}
+/* footer end */
+/* footer & me section end */
+    
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+   /* header start */
+ 
+    /* header end */
+    /* banner start */
+
+    /* banner end */
+/* Logo Designs start */
+ /* Logo Designs end */
+ /* Social Media Designs start */
+/* Social Media Designs end */
+/* footer & me section start */
+/* footer start */
+.contact_me {
+  margin-top: 90px;
+}
+.footer {
+  margin-top: 80px;
+}
+/* footer end */
+/* footer & me section end */
+ 
+}

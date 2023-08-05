@@ -1,0 +1,171 @@
+/* google fonts start */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&family=Lato:wght@400;700&family=Lobster&family=Nunito:wght@200;300;400;600&family=Oswald&family=Pangolin&family=Playfair+Display&family=Poppins:wght@400;500;700&family=Raleway:wght@400;500;600;700&family=Readex+Pro:wght@200;300;400;500;600;700&family=Roboto&family=Roboto+Slab:wght@700&display=swap');
+
+
+/* google fonts end */
+/* common css start */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Readex Pro', sans-serif;
+}
+/* common css end*/
+/* header start */
+header{
+  background: #33098B;
+}
+.h_nav{
+  margin: 0;
+  padding: 25px 0;
+}
+.offcanvas-header{
+  background: #33098B;
+}
+.navbar-toggler{
+  border: 1px solid #fff;
+}
+.navbar-toggler-icon{
+  color: white !important;
+}
+.off_nav{
+}
+.off_nav ul li a{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Readex Pro', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.off_nav ul li a:hover{
+  color: #FE4367;
+}
+.bbttnn{
+  text-align: center;
+  color: white;
+  border-radius: 34px;
+  background: #FE4367;
+  box-shadow: 6px 13px 9px 0px rgba(0, 0, 0, 0.10);
+  color: #FFF;
+  font-family: 'Readex Pro', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.bbttnn:hover{
+  border: 1px solid;
+}
+/* header end */
+/* banner start */
+.banner {
+  background-color: #33098B;
+}
+.b_text{
+  padding: 80px 0;
+}
+.b_h1{
+  color: #FFF;
+  font-family: 'Readex Pro', sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  line-height:58px;
+}
+.b_h1 .span1{
+  color: #F8C74A;
+  font-weight: 600;
+}
+.b_h1 .span2{
+  color: #FE4367;
+  font-weight: 600;
+}
+.b_p{
+  padding: 20px 65px 20px 0;
+  color: #FFF;
+  font-family: 'Readex Pro', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 25px;  
+}
+.p_span{
+  line-height: 50px;
+}
+.b_img{
+  padding: 50px;
+}
+/* banner end */
+/* Logo Designs start */
+.Logo_Designs{
+  padding: 50px 0;
+  background-color: #d8e7f1;
+}
+.c_text{}
+.c_h1{
+  padding-bottom: 50px;
+  color: #000;
+  font-family: 'Readex Pro', sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.c_img{
+  padding: 50px;
+}
+/* Logo Designs end */
+/* Social Media Designs start */
+.image_box img{}
+/* Social Media Designs end */
+/* footer & me section start */
+.footer_me{
+  width: 100% ;
+  height: 870px;
+  flex-shrink: 0;
+  background-color: #FE4367;
+}
+.contact_me{
+  margin-top: 130px;
+  border-radius: 33px;
+  background: #7F43FE;
+  box-shadow: 15px 11px 5px 0px rgba(0, 0, 0, 0.25);
+}
+.contact_text{
+  padding: 40px;
+  margin-top: 50px;
+}
+.contact_h1{
+  padding: 0px 275px 20px 80px;
+  color: #FFF;
+  font-family: 'Readex Pro', sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+ 
+}
+.contact_p{
+  padding: 0px 86px 20px 80px;
+  color: #FFF;
+  font-family: 'Readex Pro', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+.contact_img{}
+.contact_img img{}
+/* footer start */
+.footer{
+  padding: 40px;
+  margin-top: 100px;
+  background-color: #B72C47 ;border-radius: 24px;
+}
+.f_img{
+  width: 65px;
+  padding: 0px 10px;
+}
+.f_h2{
+  padding-top: 80px;
+  color: #FFF;
+  font-family: 'Readex Pro',   sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+/* footer & me section end */
+
